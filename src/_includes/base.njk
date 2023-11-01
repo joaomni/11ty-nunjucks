@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="public, max-age=31536000" />
   <title>{{ title }}</title>
 </head>
 <body>
@@ -12,5 +13,10 @@
   <main>
     {{ content | safe }}
   </main>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.0/lazysizes.min.js"></script>
+  <script>
+    // Inicializa Lazysizes
+    Lazysizes.init();
+  </script>
 </body>
 </html>
