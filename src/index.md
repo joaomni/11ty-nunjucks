@@ -20,7 +20,7 @@ Hello index.md
 
 ## Cat of the Day
 
-<img src="{{ dogpic }}" />
+<img src="{{ dogpic }}" width="100" height="100" alt="A dog pic"/>
 
 <style>
     body {
