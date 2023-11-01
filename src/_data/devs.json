@@ -1,0 +1,65 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "image_url": "https://picsum.photos/200/300",
+        "status": true,
+        "city": "São Paulo"
+    },
+    {
+        "name": "Jane Doe",
+        "age": 25,
+        "image_url": "https://picsum.photos/250/400",
+        "status": false,
+        "city": "Rio de Janeiro"
+    },
+    {
+        "name": "Maria Silva",
+        "age": 40,
+        "image_url": "https://picsum.photos/300/500",
+        "status": true,
+        "city": "Belo Horizonte"
+    },
+    {
+        "name": "Pedro Santos",
+        "age": 55,
+        "image_url": "https://picsum.photos/400/600",
+        "status": false,
+        "city": "Porto Alegre"
+    },
+    {
+        "name": "Ana Paula",
+        "age": 60,
+        "image_url": "https://picsum.photos/500/700",
+        "status": true,
+        "city": "Salvador"
+    },
+    {
+        "name": "José Carlos",
+        "age": 75,
+        "image_url": "https://picsum.photos/600/800",
+        "status": false,
+        "city": "Fortaleza"
+    },
+    {
+        "name": "Lucas Oliveira",
+        "age": 18,
+        "image_url": "https://picsum.photos/700/900",
+        "status": true,
+        "city": "Manaus"
+    },
+    {
+        "name": "Letícia Rodrigues",
+        "age": 22,
+        "image_url": "https://picsum.photos/800/1000",
+        "status": false,
+        "city": "Recife"
+    },
+    {
+        "name": "Gabriel Silva",
+        "age": 30,
+        "image_url": "https://picsum.photos/900/1100",
+        "status": true,
+        "city": "Belém"
+    }
+]
