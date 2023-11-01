@@ -5,13 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy && node minify-html.js"
+    "build": "npx @11ty/eleventy && node rename-files.js && node minify-html.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.6.0"
+    "axios": "^1.6.0",
+    "gulp": "^4.0.2"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
